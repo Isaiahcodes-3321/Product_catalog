@@ -12,7 +12,7 @@ This Flutter project is [brief description of your project's purpose and main fe
 
  1. Clone the repository:
 
-  https://github.com/Isaiahcodes-3321/Product_catalog
+  https://github.com/Isaiahcodes-3321/Product_catalog/tree/main/test_app
  
  2. Navigate to the project directory:
     cd your-repo-name
