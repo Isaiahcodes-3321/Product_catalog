@@ -1,4 +1,3 @@
-
 ## Overview of the Project
 This Flutter project is [brief description of your project's purpose and main features]. It utilizes the Riverpod state management solution for efficient and scalable state handling.
 
@@ -9,7 +8,10 @@ This Flutter project is [brief description of your project's purpose and main fe
 
 ## Getting Started
   Follow these steps to get the project up and running on your local machine:
+ # APK LOCATION
+    https://github.com/Isaiahcodes-3321/Product_catalog/tree/apk_file
 
+ # Get Code
  1. Clone the repository:
 
   https://github.com/Isaiahcodes-3321/Product_catalog/tree/main/test_app
